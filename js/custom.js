@@ -50,7 +50,7 @@ function loadGoogleAnalytics(trackingId) {
 }
 
 // Usage
-loadGoogleAnalytics('G-WGZR7KKSDR');
+loadGoogleAnalytics('G-B0X9S1ESD8');
 
 
 (function() {
